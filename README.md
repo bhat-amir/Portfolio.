@@ -17,7 +17,6 @@ Feel free to explore my portfolio to see my projects and experience!
 
 SKILLS
 
-Here’s a collection of the logos for the mentioned technologies. You can use them in your portfolio or presentations:
 
 ---
 
@@ -55,6 +54,3 @@ Here’s a collection of the logos for the mentioned technologies. You can use t
 2. **SQL (Generic)**  
    ![SQL Logo](https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png)
 
----
-
-These logos are free to use under open-source or fair use policies. Let me know if you'd like help arranging them for your portfolio!
