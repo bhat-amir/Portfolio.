@@ -5,22 +5,19 @@ Hi, I’m **Amir**, a passionate and dedicated web developer with a solid academ
 
 To further enhance my skills, I successfully completed a **web development internship at Apna College**, where I gained practical experience in designing and developing modern, responsive websites. During the internship, I worked on projects involving:  
 - **Frontend Development**: Utilizing HTML, CSS, and JavaScript & React.js to create user-friendly and visually appealing interfaces.
-- - **Backend Development**
+-  **Backend Development**
 
 1. **Node.js** – JavaScript runtime for building scalable server-side applications.  
 2. **Express.js** – Web framework for Node.js to create APIs and manage routing.  
 3. **Database Management**:  
-   - **SQL** (e.g., MySQL, PostgreSQL) – Relational database management for structured data.  
-   - **NoSQL** (e.g., MongoDB) – Flexible schema, scalable database for unstructured data.  
+   - **SQL**
+   - **MongoDB** .  
 4. **Authentication & Authorization** – Managing user login, security (JWT, OAuth).  
 5. **RESTful APIs** – Building and consuming REST APIs for client-server communication.  
 6. **Server Management** – Working with cloud services (AWS, Heroku), deploying apps.  
 7. **Version Control (Git)** – Tracking code changes and collaborating with teams.  
 
-These skills are crucial for building efficient, secure, and scalable backend systems.. 
 
-- **Responsive Design**: Ensuring websites look great on all devices, from desktops to mobile phones.  
-- **Problem-Solving**: Debugging and optimizing code to improve website performance and functionality.  
 
 I’m passionate about coding and enjoy solving complex problems to deliver creative and efficient solutions. My goal is to stay updated with the latest trends in web development, including new tools and frameworks, to provide top-notch services in building dynamic and engaging web applications.  
 
